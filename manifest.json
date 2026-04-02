@@ -1,0 +1,47 @@
+{
+  "name": "MARASSiA — متجر فاخر",
+  "short_name": "MARASSiA",
+  "description": "MAKE A REAL AND STRONG SENSE — تجربة تسوق فاخرة",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#001a66",
+  "theme_color": "#001a66",
+  "orientation": "portrait-primary",
+  "lang": "ar",
+  "dir": "rtl",
+  "categories": ["shopping", "lifestyle"],
+  "icons": [
+    {
+      "src": "https://ui-avatars.com/api/?name=M&background=001a66&color=D4AF37&size=192&font-size=0.6&bold=true",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://ui-avatars.com/api/?name=M&background=001a66&color=D4AF37&size=512&font-size=0.6&bold=true",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://marassia.netlify.app/",
+      "sizes": "390x844",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "المتجر",
+      "url": "/",
+      "description": "تسوق الآن"
+    },
+    {
+      "name": "MARASSiA AI",
+      "url": "/#ai",
+      "description": "مساعد التسوق الذكي"
+    }
+  ]
+}
